@@ -1,3 +1,6 @@
 title: CVXTCT Notes
+author:
+  name: CVXTCT
 description: Notes on things 
-theme: jekyll-theme-minimal
+# Build settings
+remote_theme: jekyll/minima
